@@ -1,4 +1,4 @@
-Retrofit
+Retrofit-EdgeButler
 ========
 
 Type-safe HTTP client for Android and Java by Square, Inc.
